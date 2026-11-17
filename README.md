@@ -1,11 +1,12 @@
-# Starfall — Harvest the Falling Stars
+# makefun-best-game
 
-A gravity-harvest arcade game. The star is dying: shards of its light fall toward
-it, and you pilot a harvester ship around the gravity well to catch them before
-they burn — while asteroids drift through the lanes, solar flares burst outward,
-and the star's own heat punishes anyone who flies too close.
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Noman7860000/makefun-best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Noman7860000/makefun-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
-## How to run
+STARFALL — Harvest the Falling Stars: a gravity-harvest arcade game. The star is dying: shards of its light fall toward it, and you pilot a harvester ship around the gravity well to catch them before they burn — while asteroids drift through the lanes, solar flares burst outward, and the star's own heat punishes anyone who flies too close.
+
+## Run it
 
 ```sh
 node serve.ts
@@ -56,3 +57,7 @@ sound effect and the music loop — no audio files. Source is split by job:
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=278ah55q&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
